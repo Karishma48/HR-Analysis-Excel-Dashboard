@@ -12,3 +12,4 @@ Bar Chart: Visualizing Education by Attrition.
 Pie Chart: Displaying Gender-wise Total Employees.
 This project began with data sourced from Kaggle, followed by a meticulous process of cleaning, organizing, and transforming the data into actionable insights. The addition of slicers enhances interactivity, making the dashboard not just informative but also user-friendly.
 The end result is a visually appealing and comprehensive dashboard, designed to provide meaningful insights at a glance. I’d love for you to check it out and share your thoughts
+![Dashboard Screenshot](assets/dashboard.png)
